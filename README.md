@@ -13,7 +13,12 @@ It is a measure of the distance between the measurement and the estimated state,
 - The below figures illustrate the Kalman filter estimated output vs the Measurement data along with Anomaly score. 
 - The higher the score, the more the measurements an anomaly in the corresponding data.
 
+![image](https://github.com/eternalamit5/Anamoly-Detection/assets/44448083/ce81d6ab-c220-4b10-8a53-4f3976ab3493)
 
-![image](/uploads/684f79fbd49550e09864ccdc6ee1c733/image.png)
 
-![image](/uploads/680a414c3336a3ab452e6fc1e2f5d1d8/image.png)
+![image](https://github.com/eternalamit5/Anamoly-Detection/assets/44448083/414ade21-a080-4bf0-8ab6-ad0b6814f0a6)
+
+
+
+
+
